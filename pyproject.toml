@@ -39,7 +39,7 @@ tox = "^3.12"
 tox-venv = "^0.4.0"
 black = { version = "^19.3-alpha.0", allow-prereleases = true, python = "^3.6" }
 flake8 = "^3.7"
-mypy = "^0.740"
+mypy = "^0.900"
 pep8-naming = "^0.8.2"
 
 [tool.poetry.scripts]
